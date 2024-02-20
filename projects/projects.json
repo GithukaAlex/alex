@@ -1,0 +1,62 @@
+[
+  {
+    "name": "WebScrapping",
+    "desc": "Getting data from the books.toscrape.com",
+    "image": "WebScraping",
+    "category": "All Projects",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/GithukaAlex/WebScrapping/blob/main/WebScrapping.ipynb"
+    }
+  },
+  {
+    "name": "Machine Learning",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "deep-learning",
+    "category": "All Projects",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/GithukaAlex/Machine-Learning/blob/main/STATISTICS%20WNBA%20DATASET.ipynb"
+    }
+  },
+  {
+    "name": "Customer churn Analysis - Python",
+    "desc": "Getting data from the books.toscrape.com",
+    "image": "Churn",
+    "category": "All Projects",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/GithukaAlex/Customer-Churn-Analysis/blob/main/Best_Customers_Churn_Project.md"
+    }
+  },
+  {
+    "name": "PostgreSQL_project",
+    "desc": "Getting data from the books.toscrape.com",
+    "image": "postgresql",
+    "category": "All Projects",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/GithukaAlex/PostgreSql_project/blob/main/Wrangling%20code"
+    }
+  },
+  {
+    "name": "Finance Analysis",
+    "desc": "Getting data from the books.toscrape.com",
+    "image": "finance",
+    "category": "All Projects",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/GithukaAlex/Finance-Analysis/blob/main/Analysis%20Code"
+    }
+  },
+  {
+    "name": "Customer Insights PostgreSQL",
+    "desc": "Getting data from the books.toscrape.com",
+    "image": "finance",
+    "category": "All Projects",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/GithukaAlex/Customer_Insights_postgre/blob/main/Code"
+    }
+  }
+]
